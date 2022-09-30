@@ -22,9 +22,9 @@
 имеющихся работников. (т.е. простейший CRUD - интерфейс). Для простоты,
 формат БД – Sqlite. Для создания базы понадобится EntityFramework Core 5.0 и
 провайдер для Sqlite, доступный в NuGet под названием
-Microsoft.EntityFrameworkCore.Sqlite .
+Microsoft.EntityFrameworkCore.Sqlite.
 3. Сотрудники должны иметь следующие данные:
-a. номер пропуска (ID),
+- номер пропуска (ID),
 b. Фамилия,
 c. Имя,
 d. Отчество,
